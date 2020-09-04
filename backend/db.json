@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
-    },
-    {
       "id": 2,
       "name": "Notebook Dell",
       "price": 3000
@@ -19,7 +14,26 @@
       "id": 4,
       "name": "Monitor",
       "price": "780.00"
-    
+    },
+    {
+      "name": "Impressora",
+      "price": "799.00",
+      "id": 5
+    },
+    {
+      "name": "Caixa de Som",
+      "price": "59.99",
+      "id": 6
+    },
+    {
+      "name": "Mouse Led",
+      "price": "39.99",
+      "id": 7
+    },
+    {
+      "name": "Teclado Led",
+      "price": "99.99",
+      "id": 8
     }
   ]
 }

@@ -21,19 +21,9 @@
       "id": 5
     },
     {
-      "name": "Caixa de Som",
-      "price": "59.99",
+      "name": "peixe",
+      "price": "45.63",
       "id": 6
-    },
-    {
-      "name": "Mouse Led",
-      "price": "39.99",
-      "id": 7
-    },
-    {
-      "name": "Teclado Led",
-      "price": "99.99",
-      "id": 8
     }
   ]
 }

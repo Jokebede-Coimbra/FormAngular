@@ -4,7 +4,7 @@
 
 > Status: ✔️
 ### Sobre
-Projeto consiste em um exemplo de uma SPA 
+Projeto consiste em um exemplo de cadastro de produtos
 
 ### Tecnologias Utilizadas
 
